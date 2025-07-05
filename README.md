@@ -1,4 +1,4 @@
-# Smart Loan Recovery System
+# RobIn
 
 A machine learning-powered system that predicts loan defaults and designs personalized recovery strategies using customer segmentation and explainable AI.
 
