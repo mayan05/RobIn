@@ -2,5 +2,5 @@ Random Forest Classifier got a ROC ACC SCORE of 69% and acc of 87%
 
 adding more features from the original dataset
 
-XGBoost got a roc of 74% without class weights 
+XGBoost got a roc of 74% without and with class weights 
 
